@@ -1,1 +1,3 @@
 # React Hello
+
+# Będziemy budować aplikację...
